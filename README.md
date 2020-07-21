@@ -1,2 +1,3 @@
-# Ola Mundo
- primeiro repositório cv
+# Olá, Mundo!
+ primeiro repositório do Curso em Video - GitHub
+
